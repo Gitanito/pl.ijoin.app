@@ -4,6 +4,7 @@ title: Koniec z Chaosem w Organizacji Wycieczek Szkolnych - Zdobądź Potwierdze
 subtitle: Jak Skutecznie Zarządzać Listami Uczestników i Transportem na Wycieczki bez Logowania
 tags: [organizacja wydarzeń, transport szkolny]
 author: ijoin.app
+language: pl
 ---
 
 # Organizacja Wycieczek Szkolnych Bez Stresu - Klucz do Sprawnego Zarządzania Listami i Transportem

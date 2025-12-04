@@ -4,6 +4,7 @@ title: Koniec z chaosem- Zapisy na kursy bez logowania
 subtitle: Zwiększ frekwencję na Twoim kursie ceramicznym dzięki prostemu linkowi
 tags: [organizacja kursów, zapisy online]
 author: ijoin.app
+language: pl
 ---
 
 # Zapisy na Kurs Töpferkurs für Anfänger - Maksymalna Frekwencja Bez Stresu

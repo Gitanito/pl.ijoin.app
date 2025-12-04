@@ -4,6 +4,7 @@ title: Koncertowa Rozgrzewka Bez Chaosu - Jak Zebrać Ekipę na Pre-Party
 subtitle: Zapomnij o setkach wiadomości - Zorganizuj idealne spotkanie przed koncertem w kilka sekund
 tags: [organizacja imprez, pre-party]
 author: ijoin.app
+language: pl
 ---
 # Koncertowa Rozgrzewka Bez Chaosu - Jak Zebrać Ekipę na Pre-Party
 

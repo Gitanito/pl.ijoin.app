@@ -4,6 +4,7 @@ title: Zero Stresu- Szybka Organizacja After-Worków i Spotkań Firmowych
 subtitle: Jak zebrać potwierdzenia obecności na spontaniczne wyjście bez maili i logowania
 tags: [organizacja wydarzeń, after-work]
 author: ijoin.app
+language: pl
 ---
 
 # Zorganizuj Spontaniczne Wyjście ze Znajomymi lub Zespołem w 30 Sekund

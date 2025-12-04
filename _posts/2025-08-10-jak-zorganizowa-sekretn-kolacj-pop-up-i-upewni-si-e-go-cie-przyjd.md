@@ -4,6 +4,7 @@ title: Jak Zorganizować Sekretną Kolację Pop-up i Upewnić się, że Goście 
 subtitle: Maksymalizuj frekwencję na ekskluzywnych wydarzeniach bez irytujących rejestracji
 tags: [organizacja wydarzeń, pop-up dinner]
 author: ijoin.app
+language: pl
 ---
 # Koniec z Chaosem Rejestracji- Zorganizuj Ekskluzywną Kolację Pop-up z Łatwością
 

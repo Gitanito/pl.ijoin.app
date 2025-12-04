@@ -4,6 +4,7 @@ title: Koniec z Chaosem w Organizowaniu Spotkań - Zwiększ Frekwencję
 subtitle: Jak Skutecznie Zarządzać Listą Gości na Cykliczne Wydarzenia bez Rejestracji
 tags: [organizacja wydarzeń, lista gości]
 author: ijoin.app
+language: pl
 ---
 
 # Koniec z Chaosem w Organizowaniu Spotkań - Zwiększ Frekwencję

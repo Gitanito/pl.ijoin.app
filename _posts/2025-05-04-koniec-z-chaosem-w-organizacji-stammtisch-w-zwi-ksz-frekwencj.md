@@ -4,6 +4,7 @@ title: Koniec z chaosem w organizacji Stammtischów - Zwiększ frekwencję
 subtitle: Jak lokalni przedsiębiorcy mogą łatwo zarządzać spotkaniami sieciowymi
 tags: [organizacja wydarzeń, networking]
 author: ijoin.app
+language: pl
 ---
 # Koniec z Chaosem E-maili - Osiągnij Maksymalną Frekwencję na Twoim Stammtischu Przedsiębiorców
 

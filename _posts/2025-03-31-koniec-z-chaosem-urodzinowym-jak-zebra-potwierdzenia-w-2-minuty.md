@@ -4,6 +4,7 @@ title: Koniec z chaosem urodzinowym - Jak zebrać potwierdzenia w 2 minuty
 subtitle: Organizacja imprezy dla dziecka bez rejestracji i logowania dla gości
 tags: [organizacja imprez, potwierdzenia obecności]
 author: ijoin.app
+language: pl
 ---
 
 # Koniec z Chaosem Urodzinowym- Jak zorganizować imprezę dla dziecka bez wysiłku

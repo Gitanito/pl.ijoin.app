@@ -4,6 +4,7 @@ title: Spontaniczne Wydarzenia Bez Chaosu - Jak Zebrać Ludzi w 5 Minut
 subtitle: Maksymalizuj frekwencję na spontanicznych spotkaniach, piknikach i flashmobach
 tags: [organizacja wydarzeń, spontaniczne spotkania]
 author: ijoin.app
+language: pl
 ---
 
 # Zorganizuj Spontaniczny Piknik w Parku - Zero Rejestracji, Maksymalna Frekwencja

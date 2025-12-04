@@ -4,6 +4,7 @@ title: Spontaniczne Spotkania Rodzinne Bez Chaosu
 subtitle: Jak szybko zorganizować wypad na plac zabaw i mieć pewność, kto przyjdzie
 tags: [organizacja wydarzeń, spotkania rodziców]
 author: ijoin.app
+language: pl
 ---
 # Spontaniczne Spotkania Rodzinne Bez Chaosu - Łatwa Organizacja Czasu Wolnego
 

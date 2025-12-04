@@ -4,6 +4,7 @@ title: Koniec z Bałaganem w Organizacji Wycieczek Rowerowych i Pieszych
 subtitle: Maksymalizuj Frekwencję na Twoich Spotkaniach - Bez Logowania i Rejestracji
 tags: [organizacja wydarzeń, spotkania sportowe]
 author: ijoin.app
+language: pl
 ---
 
 # Zorganizuj Idealną Wyprawę Rowerową lub Pieszą – Bez Chaotycznych Grup Czatu

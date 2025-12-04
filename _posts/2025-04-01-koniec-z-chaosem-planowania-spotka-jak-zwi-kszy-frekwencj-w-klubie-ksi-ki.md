@@ -4,6 +4,7 @@ title: Koniec z Chaosem Planowania Spotkań - Jak Zwiększyć Frekwencję w Klub
 subtitle: Maksymalizuj Odpowiedzi na Zaproszenia bez Wymagania Logowania - Idealne Narzędzie dla Organizatorów Społeczności
 tags: [organizacja wydarzeń, klub książki]
 author: ijoin.app
+language: pl
 ---
 
 # Zwiększ Frekwencję na Spotkaniach Klubu Książki - Osiągnij 100% Potwierdzeń bez Wysiłku

@@ -4,6 +4,7 @@ title: Koniec Chaosu w Organizowaniu Akcji Sąsiedzkich
 subtitle: Jak zebrać chętnych do pomocy bez zbędnych rejestracji i skomplikowanych maili
 tags: [organizacja wydarzeń, pomoc sąsiedzka]
 author: ijoin.app
+language: pl
 ---
 # Natychmiastowa Mobilizacja Sąsiadów - Szybkie Zbieranie Chętnych do Pomocy
 

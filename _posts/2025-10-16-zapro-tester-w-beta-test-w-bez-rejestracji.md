@@ -4,6 +4,7 @@ title: Zaproś Testerów Beta-Testów bez Rejestracji
 subtitle: Maksymalizuj frekwencję na Twoich wydarzeniach - szybko i bezpłatnie
 tags: [organizacja eventów, beta testy]
 author: ijoin.app
+language: pl
 ---
 # Koniec z chaosem! Jak skutecznie zebrać uczestników na Twoje Beta-Testy
 

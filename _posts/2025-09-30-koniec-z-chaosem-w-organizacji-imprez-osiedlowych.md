@@ -4,6 +4,7 @@ title: Koniec z chaosem w organizacji imprez osiedlowych
 subtitle: Maksymalizuj frekwencję na Twoim następnym festynie bez logowania i rejestracji
 tags: [organizacja wydarzeń, festyn]
 author: ijoin.app
+language: pl
 ---
 # Bezstresowa Organizacja Festynu Osiedlowego- Jak Zrobić To Raz, a Dobrze
 

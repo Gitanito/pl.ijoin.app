@@ -4,6 +4,7 @@ title: Koniec z Chaosem Zapisów na Zebrania Rodziców
 subtitle: Jak Zwiększyć Frekwencję i Uprościć Rejestrację na Konsultacje w Szkole
 tags: [organizacja wydarzeń, zebranie rodziców]
 author: ijoin.app
+language: pl
 ---
 
 # Zapisy na Konsultacje Rodziców - Osiągnij 100% Frekwencji bez Logowania!

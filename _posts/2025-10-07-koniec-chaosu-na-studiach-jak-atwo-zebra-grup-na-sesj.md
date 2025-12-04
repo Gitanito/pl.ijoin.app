@@ -4,6 +4,7 @@ title: Koniec chaosu na studiach - Jak łatwo zebrać grupę na sesję
 subtitle: Optymalizacja organizacji grup studenckich bez rejestracji i logowania
 tags: [organizacja wydarzeń, grupy studenckie]
 author: ijoin.app
+language: pl
 ---
 
 # Zorganizuj Rewelacyjną Grupę Naukową w Mgnieniu Oka – Zero Stresu Przed Egzaminem

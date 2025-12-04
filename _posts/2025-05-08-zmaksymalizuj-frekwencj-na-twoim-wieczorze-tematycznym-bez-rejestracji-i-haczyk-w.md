@@ -4,6 +4,7 @@ title: Zmaksymalizuj Frekwencję na Twoim Wieczorze Tematycznym - Bez Rejestracj
 subtitle: Jak łatwo zbierać zapisy i informować gości o zmianach za pomocą jednego linku
 tags: [organizacja wydarzeń, wieczór tematyczny]
 author: ijoin.app
+language: pl
 ---
 
 # Zdobądź Pełną Salę! Proste Zapisy na Spotkania i Wieczory Tematyczne Bez Logowania

@@ -4,6 +4,7 @@ title: Koniec z chaosem w organizacji spontanicznych spotkań
 subtitle: Jak Freelancerzy i Zespoły Usprawniają Co-Working bez maili i rejestracji
 tags: [organizacja wydarzeń, co-working]
 author: ijoin.app
+language: pl
 ---
 
 # Zorganizuj Spontaniczne Spotkanie Co-Workingowe i Uzyskaj Natychmiastowe Potwierdzenia

@@ -4,6 +4,7 @@ title: Organizacja Wspólnego Oglądania Meczów Bez Chaosu
 subtitle: Jak zebrać znajomych na Public Viewing i wiedzieć ilu ich będzie
 tags: [organizacja wydarzeń, public viewing]
 author: ijoin.app
+language: pl
 ---
 # Organizacja Wspólnego Oglądania Meczów Bez Chaosu
 

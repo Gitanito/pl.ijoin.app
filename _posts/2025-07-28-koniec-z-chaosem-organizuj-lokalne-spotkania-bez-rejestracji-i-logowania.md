@@ -4,6 +4,7 @@ title: Koniec z chaosem- Organizuj lokalne spotkania bez rejestracji i logowania
 subtitle: Maksymalizuj frekwencję na warsztatach i spotkaniach społecznościowych
 tags: [organizacja wydarzeń, spotkania lokalne]
 author: ijoin.app
+language: pl
 ---
 
 # Zwiększ frekwencję na warsztatach Skill-Share - Jak łatwo zarządzać listą gości

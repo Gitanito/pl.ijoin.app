@@ -5,6 +5,7 @@ title: Koniec z Chaosem w Organizacji Improwizowanych Spotkań
 subtitle: Jak Zaprosić Gości na Grill lub Imprezę Bez Logowania i Wymiany 50 Wiadomości
 tags: [organizacja wydarzeń, spontaniczne spotkania]
 author: ijoin.app
+language: pl
 ---
 # Szybkie Planowanie Spontanicznego Grillowania - Maksymalna Frekwencja, Zero Frustracji
 

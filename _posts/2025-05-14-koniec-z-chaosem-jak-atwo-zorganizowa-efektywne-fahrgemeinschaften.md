@@ -4,6 +4,7 @@ title: Koniec z chaosem- Jak łatwo zorganizować efektywne Fahrgemeinschaften
 subtitle: Maksymalizuj udział w przejazdach na treningi i wydarzenia sportowe bez zbędnej rejestracji
 tags: [organizacja wydarzeń, Fahrgemeinschaften]
 author: ijoin.app
+language: pl
 ---
 
 # Zmiana Gry w Koordynacji Fahrgemeinschaft - Proste Rozwiązanie dla Twojego Zespołu i Klubu

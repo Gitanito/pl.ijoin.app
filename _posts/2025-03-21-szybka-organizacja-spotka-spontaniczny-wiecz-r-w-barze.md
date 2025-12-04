@@ -4,6 +4,7 @@ title: Szybka Organizacja Spotkań Spontaniczny Wieczór w Barze
 subtitle: Jak zebrać znajomych w 5 minut bez chaosu i zbędnych rejestracji
 tags: [organizacja wydarzeń, spontaniczne spotkania]
 author: ijoin.app
+language: pl
 ---
 
 # Koniec z Chaosem w Grupach-Czatach – Zorganizuj Spontaniczny Wieczór Szybko i Skutecznie

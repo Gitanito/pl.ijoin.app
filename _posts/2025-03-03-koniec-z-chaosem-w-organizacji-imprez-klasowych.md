@@ -4,6 +4,7 @@ title: Koniec z Chaosem w Organizacji Imprez Klasowych
 subtitle: Jak Zwiększyć Frekwencję i Zapomnieć o Długich Łańcuchach Maili
 tags: [organizacja wydarzeń, RSVP online]
 author: ijoin.app
+language: pl
 ---
 
 # Koniec z Chaosem w Organizacji Imprez Klasowych dla Rodziców

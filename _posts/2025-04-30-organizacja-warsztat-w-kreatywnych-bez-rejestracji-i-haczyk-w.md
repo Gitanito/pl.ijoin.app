@@ -4,6 +4,7 @@ title: Organizacja Warsztatów Kreatywnych Bez Rejestracji i Haczyków
 subtitle: Jak zwiększyć frekwencję na Twoim następnym wydarzeniu artystycznym
 tags: [organizacja wydarzeń, kreatywny warsztat]
 author: ijoin.app
+language: pl
 ---
 # Organizacja Warsztatów Kreatywnych Bez Rejestracji i Haczyków
 

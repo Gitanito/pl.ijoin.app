@@ -4,6 +4,7 @@ title: Organizacja Profesjonalnego Meetupu Bez Chaosu Zapisów
 subtitle: Zwiększ frekwencję na spotkaniach branżowych- goście meldują się jednym kliknięciem
 tags: [organizacja wydarzeń, networking]
 author: ijoin.app
+language: pl
 ---
 
 # Zorganizuj Spotkanie Branżowe- Meetup, Który Sam Się Organizuje

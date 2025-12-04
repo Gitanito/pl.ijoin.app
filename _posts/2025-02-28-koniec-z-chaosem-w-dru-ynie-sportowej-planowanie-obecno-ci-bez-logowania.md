@@ -4,6 +4,7 @@ title: Koniec z chaosem w drużynie sportowej - Planowanie obecności bez logowa
 subtitle: Zwiększ frekwencję na treningach i meczach dzięki prostemu linkowi
 tags: [organizacja wydarzeń, frekwencja sport]
 author: ijoin.app
+language: pl
 ---
 
 # Koordynacja Młodzieżowej Drużyny Sportowej: Jak Zwiększyć Frekwencję Bez Frustracji

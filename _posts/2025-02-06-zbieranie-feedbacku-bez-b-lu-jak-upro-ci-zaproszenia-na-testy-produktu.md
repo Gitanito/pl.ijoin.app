@@ -4,6 +4,7 @@ title: Zbieranie Feedbacku bez Bólu - Jak Uprościć Zaproszenia na Testy Produ
 subtitle: Maksymalizuj frekwencję na Twojej sesji UX bez logowania i rejestracji
 tags: [organizacja wydarzeń, feedback na produkt]
 author: ijoin.app
+language: pl
 ---
 
 # Zdobądź Kluczowy Feedback na Swój Nowy Produkt bez Chaosu Organizacyjnego

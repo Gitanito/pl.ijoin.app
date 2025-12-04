@@ -4,6 +4,7 @@ title: Koniec Chaosu w Koordynacji Wolontariuszy na Szkolnym Kiermaszu
 subtitle: Zorganizuj zbiórkę i przydzielanie zadań na szkolny event bez rejestracji i logowania
 tags: [koordynacja wolontariuszy, organizacja wydarzeń]
 author: ijoin.app
+language: pl
 ---
 
 # Koordynacja Wolontariuszy na Szkolnym Kiermaszu Staje się Prosta i Skuteczna

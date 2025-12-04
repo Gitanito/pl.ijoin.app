@@ -4,6 +4,7 @@ title: Koniec z Wiecznym Pościgiem - Organizacja Spotkań Alumni bez Logowania
 subtitle: Maksymalizuj frekwencję na spotkaniach i zjazdach absolwentów dzięki prostemu linkowi
 tags: [organizacja-wydarzeń, alumni]
 author: ijoin.app
+language: pl
 ---
 
 # Zjazdy Absolwentów - Jak Zwiększyć Frekwencję na Stammtischach Bez Wymuszania Rejestracji
